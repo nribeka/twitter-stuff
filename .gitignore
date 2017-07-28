@@ -1,0 +1,11 @@
+.idea
+*.iml
+target
+screenshot
+geckodriver
+chromedriver
+db
+item
+archive
+
+application.properties

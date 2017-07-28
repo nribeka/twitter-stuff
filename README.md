@@ -1,2 +1,5 @@
-# twitter-stuff
-Playing around with Twitter API and Selenium to get data not (completely) provided by the Twitter API.
+# Twitter Stuff
+
+Sadly, the Twitter API only returns 3000 something last status. Using this
+code, you can scrap twitter search result and return more than that. You can
+probably get 90% of the user tweets.
